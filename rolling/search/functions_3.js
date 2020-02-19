@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['data',['data',['../classTasGrid_1_1Data2D.html#a6be112281526577cf9615e228a115c7e',1,'TasGrid::Data2D::data()'],['../classTasGrid_1_1Data2D.html#a1f89a0cdff14247780ea18b90924564b',1,'TasGrid::Data2D::data() const'],['../classTasGrid_1_1CudaVector.html#a39aac8bf87623b11dde1c7a8c4215118',1,'TasGrid::CudaVector::data()'],['../classTasGrid_1_1CudaVector.html#aff9512a0fa2ef170f205c512a8e684a8',1,'TasGrid::CudaVector::data() const']]],
+  ['data2d',['Data2D',['../classTasGrid_1_1Data2D.html#a15f6e60fdb77866ff66627484a497b04',1,'TasGrid::Data2D::Data2D()'],['../classTasGrid_1_1Data2D.html#a28548f6560da4ee398418e10093c7b97',1,'TasGrid::Data2D::Data2D(IntTypeA new_stride, IntTypeB new_num_strips)'],['../classTasGrid_1_1Data2D.html#a27bf912afadbb62585fd2d2b2cb21a32',1,'TasGrid::Data2D::Data2D(IntTypeA new_stride, IntTypeB new_num_strips, T val)'],['../classTasGrid_1_1Data2D.html#a9b49af5d88eae5e87e2d81601eabc3e9',1,'TasGrid::Data2D::Data2D(IntTypeA new_stride, IntTypeB new_num_strips, std::vector&lt; T &gt; &amp;&amp;data)']]],
+  ['decompose',['decompose',['../group__TasmanianLinearSolvers.html#ga08b33240720dd5ae339eb7d0934293ba',1,'TasGrid::TasmanianTridiagonalSolver']]],
+  ['delcudaarray',['delCudaArray',['../group__TasmanianAcceleration.html#ga1217bdc16f561392b66e9af4b72d4f82',1,'TasGrid::AccelerationMeta']]],
+  ['deletecublashandle',['deleteCublasHandle',['../group__TasmanianAcceleration.html#gac4100c3ef9cd49043058f09385015dd2',1,'TasGrid::AccelerationMeta']]],
+  ['densemultiply',['denseMultiply',['../classTasGrid_1_1CudaEngine.html#abd45c986054412e89bf630e764e4c809',1,'TasGrid::CudaEngine::denseMultiply(int M, int N, int K, typename CudaVector&lt; T &gt;::value_type alpha, const CudaVector&lt; T &gt; &amp;A, const CudaVector&lt; T &gt; &amp;B, typename CudaVector&lt; T &gt;::value_type beta, T C[])'],['../classTasGrid_1_1CudaEngine.html#a4f8ac79c15f8c7f3fbdb3ff5e0048ad6',1,'TasGrid::CudaEngine::denseMultiply(int M, int N, int K, typename CudaVector&lt; T &gt;::value_type alpha, const CudaVector&lt; T &gt; &amp;A, T const B[], T C[])'],['../namespaceTasGrid_1_1TasBLAS.html#a8f74e21f686d71f6115365636b58b20b',1,'TasGrid::TasBLAS::denseMultiply()']]],
+  ['devalfor',['devalfor',['../group__TasmanianAcceleration.html#ga7c56ddb709fef22da7d0d8bcb1c79f11',1,'TasGrid::TasCUDA']]],
+  ['devalglo',['devalglo',['../group__TasmanianAcceleration.html#ga37c22f5fc8cf3679ec0b1c9f70db82dc',1,'TasGrid::TasCUDA']]],
+  ['devalpwpoly',['devalpwpoly',['../group__TasmanianAcceleration.html#ga487792341ced3451cae56b4afeeb21cd',1,'TasGrid::TasCUDA']]],
+  ['devalpwpoly_5fsparse',['devalpwpoly_sparse',['../group__TasmanianAcceleration.html#ga9dd5f8cfd7fb8789dedfe6df281c93fe',1,'TasGrid::TasCUDA']]],
+  ['devalseq',['devalseq',['../group__TasmanianAcceleration.html#ga08ad47955a961ca1f8fe8edbf145e023',1,'TasGrid::TasCUDA']]],
+  ['dgemtv',['dgemtv',['../group__DREAMBLAS.html#gac05dfaaa4c68f3044cdea7bdfe9172d9',1,'TasDREAM::TasBLAS']]],
+  ['differentiatebasis',['differentiateBasis',['../group__TasmanianSequenceOpt.html#ga5318eac9f7bcf73f602ed65398735f8b',1,'TasGrid::Optimizer']]],
+  ['distributedposterior',['DistributedPosterior',['../classTasDREAM_1_1DistributedPosterior.html#a12d716a26921c81e4fe145c02e58ef2d',1,'TasDREAM::DistributedPosterior']]],
+  ['dnrm2squared',['dnrm2squared',['../group__DREAMBLAS.html#ga9c98b5708bdeb56d5ef23ab294202cb9',1,'TasDREAM::TasBLAS']]],
+  ['dream_5fexample_5f01',['dream_example_01',['../group__TasmanianDREAMExamples1.html#gac6e60a5ccd32a99c2e5842ed8508e06f',1,'example_dream_01.cpp']]],
+  ['dream_5fexample_5f02',['dream_example_02',['../group__TasmanianDREAMExamples2.html#gaba683032368a942c285de97689bb471e',1,'example_dream_02.cpp']]],
+  ['dream_5fexample_5f03',['dream_example_03',['../group__TasmanianDREAMExamples3.html#ga2e7f82d73f937a3b45add47ddaf3acb2',1,'example_dream_03.cpp']]],
+  ['dream_5fexample_5f04',['dream_example_04',['../group__TasmanianDREAMExamples4.html#ga340d1e1e54c85cd9033680a4b0fd03f7',1,'example_dream_04.cpp']]],
+  ['dream_5fexample_5f05',['dream_example_05',['../group__TasmanianDREAMExamples5.html#ga2f9023617da230f349aa8a97dec2e14d',1,'example_dream_05.cpp']]],
+  ['dtrans2can',['dtrans2can',['../group__TasmanianAcceleration.html#ga61035998929e409891c7b113651f2051',1,'TasGrid::TasCUDA']]],
+  ['dynamicconstructordataglobal',['DynamicConstructorDataGlobal',['../classTasGrid_1_1DynamicConstructorDataGlobal.html#ac8217af5726d182b5d9937c86f036997',1,'TasGrid::DynamicConstructorDataGlobal::DynamicConstructorDataGlobal(size_t cnum_dimensions, size_t cnum_outputs)'],['../classTasGrid_1_1DynamicConstructorDataGlobal.html#abcecf49d0cc4691b103fc97c1085ed5e',1,'TasGrid::DynamicConstructorDataGlobal::DynamicConstructorDataGlobal(std::istream &amp;is, size_t cnum_dimensions, size_t cnum_outputs, iomode)']]]
+];

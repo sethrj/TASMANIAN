@@ -1,0 +1,14 @@
+<map id="SparseGrids/tsgHierarchyManipulator.hpp" name="SparseGrids/tsgHierarchyManipulator.hpp">
+<area shape="rect" id="node2" href="$tsgRuleLocalPolynomial_8hpp_source.html" title="tsgRuleLocalPolynomial.hpp" alt="" coords="731,319,936,345"/>
+<area shape="rect" id="node19" href="$tsgIndexManipulator_8hpp.html" title="Algorithms for manipulating sets of multi&#45;indexes. " alt="" coords="605,95,787,121"/>
+<area shape="rect" id="node3" href="$tsgEnumerates_8hpp.html" title="Omnipresent enumerate types. " alt="" coords="555,468,703,495"/>
+<area shape="rect" id="node17" href="$tsgUtils_8hpp.html" title="Miscellaneous utility templates used thoughout the code. " alt="" coords="1371,543,1471,569"/>
+<area shape="rect" id="node18" href="$tsgMathUtils_8hpp.html" title="Math functions and constants. " alt="" coords="1355,617,1487,644"/>
+<area shape="rect" id="node20" href="$tsgIndexSets_8hpp.html" title="Data structures for storing multi&#45;indexes and floating point values. " alt="" coords="629,169,763,196"/>
+<area shape="rect" id="node22" href="$tsgOneDimensionalWrapper_8hpp.html" title="Cache for one dimensional rules. " alt="" coords="374,169,605,196"/>
+<area shape="rect" id="node21" href="$tsgIOHelpers_8hpp.html" title="Templates to simply file I/O. " alt="" coords="610,393,745,420"/>
+<area shape="rect" id="node23" href="$tsgSequenceOptimizer_8hpp.html" title="Algorithms for computing greedy sequences. " alt="" coords="459,244,655,271"/>
+<area shape="rect" id="node24" href="$tsgHardCodedTabulatedRules_8hpp.html" title="Hard&#45;coded nodes and weights. " alt="" coords="195,244,435,271"/>
+<area shape="rect" id="node25" href="$tsgCoreOneDimensional_8hpp.html" title="Algorithms and meta&#45;data for the Gauuss, Chebyshev and custom rules. " alt="" coords="327,319,535,345"/>
+<area shape="rect" id="node26" href="$tsgLinearSolvers_8hpp.html" title="Linear solvers. " alt="" coords="366,393,525,420"/>
+</map>

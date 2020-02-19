@@ -1,0 +1,27 @@
+var tsgAcceleratedDataStructures_8hpp =
+[
+    [ "dtrans2can", "tsgAcceleratedDataStructures_8hpp.html#ga61035998929e409891c7b113651f2051", null ],
+    [ "devalpwpoly", "tsgAcceleratedDataStructures_8hpp.html#ga487792341ced3451cae56b4afeeb21cd", null ],
+    [ "devalpwpoly_sparse", "tsgAcceleratedDataStructures_8hpp.html#ga9dd5f8cfd7fb8789dedfe6df281c93fe", null ],
+    [ "devalseq", "tsgAcceleratedDataStructures_8hpp.html#ga08ad47955a961ca1f8fe8edbf145e023", null ],
+    [ "devalfor", "tsgAcceleratedDataStructures_8hpp.html#ga7c56ddb709fef22da7d0d8bcb1c79f11", null ],
+    [ "devalglo", "tsgAcceleratedDataStructures_8hpp.html#ga37c22f5fc8cf3679ec0b1c9f70db82dc", null ],
+    [ "getIOAccelerationString", "tsgAcceleratedDataStructures_8hpp.html#ga7ae184192f6d2bca2a9887d36db62668", null ],
+    [ "getStringToAccelerationMap", "tsgAcceleratedDataStructures_8hpp.html#a117c760d9c64910ea4ce7ec8d5e804ff", null ],
+    [ "getIOAccelerationString", "tsgAcceleratedDataStructures_8hpp.html#gac2e20edfabde6a82e74b40fb6bac1047", null ],
+    [ "getIOAccelerationInt", "tsgAcceleratedDataStructures_8hpp.html#ga10839c9ae1b3663b8746b56d83fc081f", null ],
+    [ "getIOIntAcceleration", "tsgAcceleratedDataStructures_8hpp.html#ga685cda2cf2d7660ee8f630fa8f2ca647", null ],
+    [ "isAccTypeGPU", "tsgAcceleratedDataStructures_8hpp.html#ga61e7f9cea7355424ac39b404657a30bc", null ],
+    [ "getAvailableFallback", "tsgAcceleratedDataStructures_8hpp.html#gae5a698d63fdc95b913db1ea966dda5eb", null ],
+    [ "getNumCudaDevices", "tsgAcceleratedDataStructures_8hpp.html#ga1a279855d78d5ab68875e7d46231621e", null ],
+    [ "setDefaultCudaDevice", "tsgAcceleratedDataStructures_8hpp.html#ga69cd13800b0e80a73e624dcae1ffc7f6", null ],
+    [ "getTotalGPUMemory", "tsgAcceleratedDataStructures_8hpp.html#gaecd328232c62eeba7fc02f84bc8ac62c", null ],
+    [ "getCudaDeviceName", "tsgAcceleratedDataStructures_8hpp.html#gab93e9af5b4f1c940109194cb93c77e49", null ],
+    [ "recvCudaArray", "tsgAcceleratedDataStructures_8hpp.html#gab20fa738772cd08992706e30045a5569", null ],
+    [ "delCudaArray", "tsgAcceleratedDataStructures_8hpp.html#ga1217bdc16f561392b66e9af4b72d4f82", null ],
+    [ "createCublasHandle", "tsgAcceleratedDataStructures_8hpp.html#ga9c3026accc87a8033e8f64436fbee6bb", null ],
+    [ "deleteCublasHandle", "tsgAcceleratedDataStructures_8hpp.html#gac4100c3ef9cd49043058f09385015dd2", null ],
+    [ "cudaCheckError", "tsgAcceleratedDataStructures_8hpp.html#ga67931ed3a58b5b1714e754c0b318f378", null ],
+    [ "cublasCheckError", "tsgAcceleratedDataStructures_8hpp.html#gafee3920d8fc354dc01deab9d4e6264c4", null ],
+    [ "cusparseCheckError", "tsgAcceleratedDataStructures_8hpp.html#ga66027d59c5235e0d23ef5b30b32dce7d", null ]
+];

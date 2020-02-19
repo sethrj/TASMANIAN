@@ -1,0 +1,28 @@
+<map id="DREAM/tsgDreamLikelihoodCore.hpp" name="DREAM/tsgDreamLikelihoodCore.hpp">
+<area shape="rect" id="node2" href="$tsgDreamEnumerates_8hpp.html" title="The enumerated types used in the DREAM module. " alt="" coords="767,95,959,121"/>
+<area shape="rect" id="node4" href="$TasmanianSparseGrid_8hpp.html" title="Main header for the Sparse Grid module. " alt="" coords="846,169,1037,196"/>
+<area shape="rect" id="node5" href="$tsgGridGlobal_8hpp_source.html" title="tsgGridGlobal.hpp" alt="" coords="592,244,731,271"/>
+<area shape="rect" id="node40" href="$tsgGridLocalPolynomial_8hpp.html" title="Algorithms for manipulating sets of multi&#45;indexes. " alt="" coords="771,319,975,345"/>
+<area shape="rect" id="node41" href="$tsgGridWavelet_8hpp_source.html" title="tsgGridWavelet.hpp" alt="" coords="930,244,1081,271"/>
+<area shape="rect" id="node43" href="$tsgGridFourier_8hpp_source.html" title="tsgGridFourier.hpp" alt="" coords="1113,244,1255,271"/>
+<area shape="rect" id="node6" href="$tsgGridSequence_8hpp_source.html" title="tsgGridSequence.hpp" alt="" coords="392,319,552,345"/>
+<area shape="rect" id="node39" href="$tsgCacheLagrange_8hpp.html" title="Cache data structure for evaluate with Global grids. " alt="" coords="576,319,747,345"/>
+<area shape="rect" id="node7" href="$tsgGridCore_8hpp.html" title="Definition for the base grid class. " alt="" coords="810,393,937,420"/>
+<area shape="rect" id="node8" href="$tsgDConstructGridGlobal_8hpp.html" title="Class and data types used for dynamic construction of Global grids. " alt="" coords="533,468,744,495"/>
+<area shape="rect" id="node35" href="$tsgCudaLoadStructures_8hpp_source.html" title="tsgCudaLoadStructures.hpp" alt="" coords="1012,468,1212,495"/>
+<area shape="rect" id="node37" href="$tsgHierarchyManipulator_8hpp.html" title="Algorithms for manipulating multi&#45;indexes defined by hierarchy rules. " alt="" coords="769,468,978,495"/>
+<area shape="rect" id="node10" href="$tsgIndexManipulator_8hpp.html" title="Algorithms for manipulating sets of multi&#45;indexes. " alt="" coords="642,543,825,569"/>
+<area shape="rect" id="node11" href="$tsgIndexSets_8hpp.html" title="Data structures for storing multi&#45;indexes and floating point values. " alt="" coords="667,767,802,793"/>
+<area shape="rect" id="node29" href="$tsgOneDimensionalWrapper_8hpp.html" title="Cache for one dimensional rules. " alt="" coords="465,617,695,644"/>
+<area shape="rect" id="node12" href="$tsgIOHelpers_8hpp.html" title="Templates to simply file I/O. " alt="" coords="457,841,591,868"/>
+<area shape="rect" id="node13" href="$tsgEnumerates_8hpp.html" title="Omnipresent enumerate types. " alt="" coords="555,916,703,943"/>
+<area shape="rect" id="node27" href="$tsgUtils_8hpp.html" title="Miscellaneous utility templates used thoughout the code. " alt="" coords="1371,991,1471,1017"/>
+<area shape="rect" id="node28" href="$tsgMathUtils_8hpp.html" title="Math functions and constants. " alt="" coords="1355,1065,1487,1092"/>
+<area shape="rect" id="node30" href="$tsgSequenceOptimizer_8hpp.html" title="Algorithms for computing greedy sequences. " alt="" coords="499,692,695,719"/>
+<area shape="rect" id="node31" href="$tsgHardCodedTabulatedRules_8hpp.html" title="Hard&#45;coded nodes and weights. " alt="" coords="235,692,475,719"/>
+<area shape="rect" id="node32" href="$tsgCoreOneDimensional_8hpp.html" title="Algorithms and meta&#45;data for the Gauuss, Chebyshev and custom rules. " alt="" coords="251,767,459,793"/>
+<area shape="rect" id="node33" href="$tsgLinearSolvers_8hpp.html" title="Linear solvers. " alt="" coords="274,841,433,868"/>
+<area shape="rect" id="node36" href="$tsgAcceleratedDataStructures_8hpp.html" title="Data structures for interacting with CUDA and MAGMA environments. " alt="" coords="1001,617,1245,644"/>
+<area shape="rect" id="node38" href="$tsgRuleLocalPolynomial_8hpp_source.html" title="tsgRuleLocalPolynomial.hpp" alt="" coords="771,617,976,644"/>
+<area shape="rect" id="node42" href="$tsgRuleWavelet_8hpp_source.html" title="tsgRuleWavelet.hpp" alt="" coords="999,319,1150,345"/>
+</map>

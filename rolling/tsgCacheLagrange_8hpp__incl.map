@@ -1,0 +1,19 @@
+<map id="SparseGrids/tsgCacheLagrange.hpp" name="SparseGrids/tsgCacheLagrange.hpp">
+<area shape="rect" id="node2" href="$tsgGridCore_8hpp.html" title="Definition for the base grid class. " alt="" coords="810,80,937,107"/>
+<area shape="rect" id="node3" href="$tsgDConstructGridGlobal_8hpp.html" title="Class and data types used for dynamic construction of Global grids. " alt="" coords="533,155,744,181"/>
+<area shape="rect" id="node30" href="$tsgCudaLoadStructures_8hpp_source.html" title="tsgCudaLoadStructures.hpp" alt="" coords="1012,155,1212,181"/>
+<area shape="rect" id="node32" href="$tsgHierarchyManipulator_8hpp.html" title="Algorithms for manipulating multi&#45;indexes defined by hierarchy rules. " alt="" coords="769,155,978,181"/>
+<area shape="rect" id="node5" href="$tsgIndexManipulator_8hpp.html" title="Algorithms for manipulating sets of multi&#45;indexes. " alt="" coords="642,229,825,256"/>
+<area shape="rect" id="node6" href="$tsgIndexSets_8hpp.html" title="Data structures for storing multi&#45;indexes and floating point values. " alt="" coords="667,453,802,480"/>
+<area shape="rect" id="node24" href="$tsgOneDimensionalWrapper_8hpp.html" title="Cache for one dimensional rules. " alt="" coords="465,304,695,331"/>
+<area shape="rect" id="node7" href="$tsgIOHelpers_8hpp.html" title="Templates to simply file I/O. " alt="" coords="457,528,591,555"/>
+<area shape="rect" id="node8" href="$tsgEnumerates_8hpp.html" title="Omnipresent enumerate types. " alt="" coords="555,603,703,629"/>
+<area shape="rect" id="node22" href="$tsgUtils_8hpp.html" title="Miscellaneous utility templates used thoughout the code. " alt="" coords="1371,677,1471,704"/>
+<area shape="rect" id="node23" href="$tsgMathUtils_8hpp.html" title="Math functions and constants. " alt="" coords="1355,752,1487,779"/>
+<area shape="rect" id="node25" href="$tsgSequenceOptimizer_8hpp.html" title="Algorithms for computing greedy sequences. " alt="" coords="499,379,695,405"/>
+<area shape="rect" id="node26" href="$tsgHardCodedTabulatedRules_8hpp.html" title="Hard&#45;coded nodes and weights. " alt="" coords="235,379,475,405"/>
+<area shape="rect" id="node27" href="$tsgCoreOneDimensional_8hpp.html" title="Algorithms and meta&#45;data for the Gauuss, Chebyshev and custom rules. " alt="" coords="251,453,459,480"/>
+<area shape="rect" id="node28" href="$tsgLinearSolvers_8hpp.html" title="Linear solvers. " alt="" coords="274,528,433,555"/>
+<area shape="rect" id="node31" href="$tsgAcceleratedDataStructures_8hpp.html" title="Data structures for interacting with CUDA and MAGMA environments. " alt="" coords="1001,304,1245,331"/>
+<area shape="rect" id="node33" href="$tsgRuleLocalPolynomial_8hpp_source.html" title="tsgRuleLocalPolynomial.hpp" alt="" coords="771,304,976,331"/>
+</map>

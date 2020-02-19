@@ -1,0 +1,8 @@
+<map id="SparseGrids/tsgHardCodedTabulatedRules.hpp" name="SparseGrids/tsgHardCodedTabulatedRules.hpp">
+<area shape="rect" id="node2" href="$tsgCoreOneDimensional_8hpp.html" title="Algorithms and meta&#45;data for the Gauuss, Chebyshev and custom rules. " alt="" coords="593,95,801,121"/>
+<area shape="rect" id="node3" href="$tsgIOHelpers_8hpp.html" title="Templates to simply file I/O. " alt="" coords="545,169,679,196"/>
+<area shape="rect" id="node20" href="$tsgLinearSolvers_8hpp.html" title="Linear solvers. " alt="" coords="703,169,862,196"/>
+<area shape="rect" id="node4" href="$tsgEnumerates_8hpp.html" title="Omnipresent enumerate types. " alt="" coords="555,244,703,271"/>
+<area shape="rect" id="node18" href="$tsgUtils_8hpp.html" title="Miscellaneous utility templates used thoughout the code. " alt="" coords="1371,319,1471,345"/>
+<area shape="rect" id="node19" href="$tsgMathUtils_8hpp.html" title="Math functions and constants. " alt="" coords="1355,393,1487,420"/>
+</map>
